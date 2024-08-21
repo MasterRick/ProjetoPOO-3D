@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Richardson\\Desktop\\ProjetoPOO-3C\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Richardson\\Documents\\GitHub\\ProjetoPOO-3D\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Richardson\\Desktop\\ProjetoPOO-3C\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\Richardson\\Documents\\GitHub\\ProjetoPOO-3D\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Richardson\\Desktop\\ProjetoPOO-3C\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Richardson\\Documents\\GitHub\\ProjetoPOO-3D\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Richardson\\Desktop\\ProjetoPOO-3C\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\Richardson\\Documents\\GitHub\\ProjetoPOO-3D\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Richardson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Richardson\\Desktop\\ProjetoPOO-3C\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Richardson\\Documents\\GitHub\\ProjetoPOO-3D\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Richardson\\AppData\\Roaming\\NuGet\\NuGet.Config"

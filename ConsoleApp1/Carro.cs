@@ -12,15 +12,6 @@ class Carro
         this.nome = nome;
         this.placa = placa;
 
-        if (cor == "Azul" || cor == "Preto" || cor == "Branco")
-        {
-            this.cor = cor;
-        }
-        else
-        {
-            this.cor = "Sem cor";
-        }
-
 
         this.kmrodados = kmrodados;
     }
