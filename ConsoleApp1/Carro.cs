@@ -11,8 +11,7 @@ class Carro
     {
         this.nome = nome;
         this.placa = placa;
-
-
+        this.cor = cor;
         this.kmrodados = kmrodados;
     }
 
